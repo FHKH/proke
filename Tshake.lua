@@ -27,9 +27,7 @@ print("\27[34m"..[[
    |__/|_______/ |__/  |__/ \_______/|__/  \__/ \_______/
                                                                                                                                                                          
 >> CH > @PPrKK
->> CH > @PUBGMOBILE_ALL
 >> DEVELOPER > @S7555
->> DEVELOPER > @PPrKK
 ]].."\27[m")
 
 io.popen("mkdir Tshake_Files")
