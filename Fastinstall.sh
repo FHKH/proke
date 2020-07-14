@@ -8,9 +8,9 @@ chmod +x install.sh
 chmod +x ts
 ./ts
 }
-get() {
+get(https://github.com/FHKH/proke) {
 rm -fr Tshake.lua
-
+wget (https://github.com/FHKH/proke)
 lua start.lua
 }
 installall(){
