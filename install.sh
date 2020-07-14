@@ -2,6 +2,7 @@
 cd $HOME/TshAkE
 install() {
 rm -rf $HOME/.telegram-cli
+wget (https://github.com/FHKH/proke)
 sudo chmod +x tg
 chmod +x Tshake
 chmod +x ts
